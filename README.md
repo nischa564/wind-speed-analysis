@@ -1,6 +1,6 @@
 # Wind Speed Analysis
 
-Disclaimer: This repository is created for user study.
+Disclaimer: This repository is created for a user study.
 
 ## The Dataset
 
