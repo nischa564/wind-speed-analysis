@@ -4,7 +4,7 @@ Disclaimer: This repository is created for a user study.
 
 ## The Dataset
 
-A company comes to you in order to improve their wind speed prediction. Currently they use a simple ARIMA model to do their wind speed predition and they reach a MAE of 3.0 knots on the given [dataset](./data/raw/wind_dataset.csv). Find out how you can improve the prediction of the company. 
+A company comes to you in order to improve their wind speed prediction. Currently they use a simple ARIMA model to do their wind speed predition and they reach a MAE of 4.28 knots on the given [dataset](./data/raw/wind_dataset.csv). Find out how you can improve the prediction of the company. 
 
 ### Context
 High precision and reliable wind speed forecasting is a challenge for meteorologists. Severe wind due to convective storms, causes considerable damages (large scale forest damage, outage, buildings/houses damage, etc.). Convective events such as thunderstorms, tornadoes as well as large hail, strong winds, are natural hazards that have the potential to disrupt daily life, especially over complex terrain favoring the initiation of convection. Even ordinary convective events produce severe winds which causes fatal and costly damages. Therefore, wind speed prediction is an important task to get advanced severe weather warning. This dataset contains the responses of a weather sensor that collected different weather variables such as temperatures and precipitation.
